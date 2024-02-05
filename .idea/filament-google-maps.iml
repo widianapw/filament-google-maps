@@ -5,8 +5,6 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" packagePrefix="Cheesegrits\FilamentGoogleMaps\" />
       <sourceFolder url="file://$MODULE_DIR$/tests/database/factories" isTestSource="false" packagePrefix="Cheesegrits\FilamentGoogleMaps\Tests\Database\Factories\" />
       <sourceFolder url="file://$MODULE_DIR$/tests/src" isTestSource="false" packagePrefix="Cheesegrits\FilamentGoogleMaps\Tests\" />
-      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/ramsey/collection" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/pimple/pimple" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/nesbot/carbon" />
