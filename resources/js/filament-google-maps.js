@@ -525,7 +525,9 @@ export default function filamentGoogleMapsField({
       );
     },
     setCoordinates: function (position) {
-      this.state = position;
+
+      setStateUsing(statePath, position);
+      // this.state = position;
     },
     getCoordinates: function () {
       if (this.state === null || !this.state.hasOwnProperty("lat")) {
